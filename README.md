@@ -29,8 +29,7 @@ The project includes data preprocessing, model building, evaluation, and a simpl
 
 ## Dataset
 
-- Source: [Kaggle / Academic dataset] (replace this with actual link if available)
-- Columns include academic scores, gender, specialization, and placement status.
+- Source: Kaggle 
 
 ## Technologies Used
 
